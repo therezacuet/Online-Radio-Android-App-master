@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.ACCESS_ASSISTED_GPS
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:15:22-75
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:19:5-20:23
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:19:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:23:5-76:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:24:5-28:19
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:25:9-38
+	android:allowBackup
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.thereza.radiosouthern.activity.MainActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:30:13-75
+activity#com.thereza.radiosouthern.activity.SplashActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:35:9-44:20
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:36:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.thereza.radiosouthern.activity.AboutActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:45:9-49:20
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:46:13-76
+activity#com.thereza.radiosouthern.activity.MessageActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:52:13-59
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:51:13-78
+activity#com.thereza.radiosouthern.activity.DeveloperActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:58:13-61
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:57:13-80
+activity#com.thereza.radiosouthern.activity.FAQActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:63:13-55
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:62:13-74
+service#com.thereza.radiosouthern.services.BackgroundSoundService
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:66:9-70:60
+	android:process
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:70:13-58
+	android:enabled
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:68:13-35
+	android:exported
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:67:13-85
+activity#com.thereza.radiosouthern.activity.ContactActivity
+ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:74:13-59
+	android:name
+		ADDED from C:\Users\Rebel Ahsan\Downloads\Compressed\CardView\Online-Radio-Android-App-master\app\src\main\AndroidManifest.xml:73:13-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\52e1f50bb0bbc1f002ce9a20193d7c46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ec680f921a48aa9c96545a021469bcb7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\562d2fcc94389aa4fca288a9e38baa70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f56738e5de7d6feccf3cdcd47e4ec512\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\796a20d4fdd0029646e3d2a82d73973c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c00177971066f7791f3a72ba03755748\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rebel Ahsan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\61b0b44d33fdea4ad84c6c601444bf41\AndroidManifest.xml:26:13-58

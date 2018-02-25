@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

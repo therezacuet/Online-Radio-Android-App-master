@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_minus.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_developer.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splkk.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\splkk.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gr.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\gr.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_border.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_border.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_message.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_program.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\program.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stoprr.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\stoprr.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_border_big.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\image_border_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bb_back.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\bb_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_faq.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spl_final.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\spl_final.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bb.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\bb.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_program.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\program.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_layout_border.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_splash.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start4.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\start4.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_error.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_contact.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_playbuttonsm.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\playbuttonsm.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logosmall.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\logosmall.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pause50.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\pause50.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_back.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\b_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop_back.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\stop_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_speaker11.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\speaker11.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_androidhappy.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\androidhappy.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_developer.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\developer.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plusminus.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable\\plusminus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_faq.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\faq.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_about.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_border.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_grouprow.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\grouprow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cr.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\cr.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spl.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\spl.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selector.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pause.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_childrow.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\childrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sou.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\sou.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_developer.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\796a20d4fdd0029646e3d2a82d73973c\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pausebuttonsm.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\pausebuttonsm.png"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_in.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_text.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\52e1f50bb0bbc1f002ce9a20193d7c46\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_arrow.png.flat",
+        "source": "C:\\Users\\Rebel Ahsan\\Downloads\\Compressed\\CardView\\Online-Radio-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\write_arrow.png"
+    }
+]
